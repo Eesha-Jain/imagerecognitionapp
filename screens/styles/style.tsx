@@ -8,5 +8,10 @@ export default StyleSheet.create({
     width:160,
     borderRadius:10,
     backgroundColor: "white",
+  },
+  loadingIndicator: {
+    flex: 1,
+    alignItems: 'center',
+    justifyContent: 'center',
   }
 });
